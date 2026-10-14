@@ -1,7 +1,7 @@
 # Kubernetes Architecture
 
 Kubernetes (K8s) is split into two parts: the **control plane**, which decides what should run and where, and the **worker nodes**, which actually run your applications.
-
+ 
 ## Architecture Diagram
 
 ```mermaid
